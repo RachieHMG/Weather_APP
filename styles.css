@@ -1,0 +1,114 @@
+h1 {
+  color: rgb(4, 122, 77);
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 26px;
+  padding-left: 20px;
+  text-transform: uppercase;
+}
+.local {
+  display: block;
+  margin: 0 auto;
+  width: 40px;
+  padding: 0 auto;
+}
+.d-flex {
+  padding: 10px;
+}
+.btn-success {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.weather-app {
+  border: 1px solid rgb(5, 153, 96);
+  padding: 15px;
+  margin: 15px;
+  max-width: 700px;
+  font-weight: 500;
+  border-radius: 5px;
+  box-shadow: 100px;
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(241, 247, 244);
+  text-transform: uppercase;
+}
+
+.infoTop {
+  color: rgb(36, 84, 187);
+  padding-left: 20px;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: 600;
+}
+.infoBottom {
+  font-size: 15px;
+  padding-left: 21px;
+  padding-top: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.temperature {
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 1;
+}
+.rain {
+  width: 100px;
+  padding-left: 10px;
+  margin-left: 25px;
+}
+.wicon {
+  width: 75px;
+  text-align: center;
+}
+.add {
+  text-align: right;
+  padding-right: 20px;
+  font-size: 20px;
+}
+.day-name {
+  text-align: center;
+  font-weight: 500;
+}
+.day-temp {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 500;
+}
+.weekly-weather {
+  border: 2px solid rgb(5, 153, 96);
+  padding: 10px;
+  margin: 18px;
+  max-width: 95%;
+  border-radius: 5px;
+  box-shadow: 100px;
+  font-family: "Montserrat", sans-serif;
+}
+.coded {
+  font-size: 10px;
+  text-align: center;
+  opacity: 50%;
+  color: rgb(5, 153, 96);
+}
+.units {
+  font-size: 15px;
+}
+.break {
+  font-size: 15px;
+}
+.btn-primary {
+  margin-left: 10px;
+}
+
+.tempCss {
+  font-size: 50px;
+  font-weight: 300;
+}
